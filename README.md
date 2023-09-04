@@ -1,5 +1,5 @@
 # E-Classroom
-Introduction
+# Introduction
 Welcome to the E-Classroom Management System! This Java-based application, powered by SQL for data management, is designed to revolutionize the way you manage your online classrooms. Whether you're an educator, student, or administrator, this system aims to streamline the virtual learning experience, making it more efficient and user-friendly.
 
 Features
